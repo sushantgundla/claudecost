@@ -3,7 +3,7 @@
 See what Claude Code is costing you. One bash script, zero dependencies.
 
 ```bash
-curl -O https://raw.githubusercontent.com/<your-username>/claudecost/main/claudecost.sh
+[curl -O https://raw.githubusercontent.com/<your-username>/claudecost/main/claudecost.sh](https://raw.githubusercontent.com/sushantgundla/claudecost/refs/heads/main/claudecost.sh)
 chmod +x claudecost.sh
 ./claudecost.sh
 ```
